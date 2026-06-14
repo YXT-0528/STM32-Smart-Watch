@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status *)",
+      "Bash(git --version)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(ssh-keygen -t ed25519 -C yangxutong@gmail.com -f __TRACKED_VAR__/.ssh/id_ed25519 -N '')"
+    ]
+  }
+}
